@@ -1,5 +1,7 @@
 # RAGTurk: Best Practices for Retrieval-Augmented Generation in Turkish
 
+[![arXiv](https://img.shields.io/badge/arXiv-2602.03652-b31b1b.svg)](https://arxiv.org/abs/2602.03652)
+
 ## Overview
 
 **RAGTurk** investigates best practices for **Retrieval-Augmented Generation (RAG)** systems in **Turkish**, a morphologically rich and low-resource language.  
